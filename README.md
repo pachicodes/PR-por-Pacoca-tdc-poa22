@@ -1,3 +1,4 @@
+
 # PR por Paçoca
 ## TDC Porto Alegre 2022
 
@@ -9,17 +10,14 @@ PR por Paçoca é uma atividade interativa, na qual você ganha um pacotinho esp
 Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 
 ### Template
-Mensagem:
-Nome:
-Linkedin:
-Twitter:
-Instagram
+| Mensagem: | Nome: | Redes Sociais :| 
+|--|--|--|
+|Sua mensagem aqui  |Seu nome aqui  | Suas redes aqui|
 .
 
 # Mensagens
-Mensagem: "Estou ansiosa para palestrar na trilha de Carreira e Mentoria no dia 6 as 10:55 da manhã, venham me ver"
-Nome: Pachi Parra 
-Linkedin: https://www.linkedin.com/in/pachicodes/
-Twitter: https://twitter.com/pachicodes
-Instagram: https://www.instagram.com/pachicodes/
+| Mensagem: | Nome: | Redes Sociais :| 
+|--|--|--|
+| "Estou ansiosa para palestrar na trilha de Carreira e Mentoria no dia 6 as 10:55 da manhã, venham me ver" |Pachi Parra  | Linkedin: https://www.linkedin.com/in/pachicodes/ Twitter: https://twitter.com/pachicodes Instagram: https://www.instagram.com/pachicodes/|
+.
 .
