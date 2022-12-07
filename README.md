@@ -23,3 +23,4 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 |Olá github | thailene  | @Thai.terra|
 | Olá! O TDC está showww!! | Gregory | https://www.linkedin.com/in/gregorylagranha
 | Muito massa esse stand!! | Arthur Boeck | https://www.linkedin.com/in/ArthurBoeck
+| TDC top de mais!!! | Rafael P. Mugnol | https://www.linkedin.com/in/rafael-mugnol
