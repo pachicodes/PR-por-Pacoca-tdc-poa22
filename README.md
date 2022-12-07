@@ -27,4 +27,5 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 | TDC top de mais!!! | Rafael P. Mugnol | https://www.linkedin.com/in/rafael-mugnol
 |tdc 2020  |Geordani Machado  | Sua mensagem aqui  |https://www.linkedin.com/in/geordani-machado-5b71ba18a
 |Increvel a experiencia |Nicolas Souza  | @Nicolas.__.souza
+|O TDC está sendo uma experiência incrível de aprendizado e networking|Raphael Primo| https://www.linkedin.com/in/raphael-m-primo
 
