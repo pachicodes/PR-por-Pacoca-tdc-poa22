@@ -28,4 +28,4 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 |tdc 2020  |Geordani Machado  | Sua mensagem aqui  |https://www.linkedin.com/in/geordani-machado-5b71ba18a
 |Increvel a experiencia |Nicolas Souza  | @Nicolas.__.souza
 |O TDC está sendo uma experiência incrível de aprendizado e networking|Raphael Primo| https://www.linkedin.com/in/raphael-m-primo
-
+|Que evento incrível, muitas oportunidades de aprendizado e crescimento|Francisco Cavasan| https://www.linkedin.com/in/francisco-cavasan-68b814122|
