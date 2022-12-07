@@ -24,3 +24,5 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 | Olá! O TDC está showww!! | Gregory | https://www.linkedin.com/in/gregorylagranha
 | Muito massa esse stand!! | Arthur Boeck| https://www.linkedin.com/in/ArthurBoeck
 |tdc 2020  |Geordani Machado  | Sua mensagem aqui  |https://www.linkedin.com/in/geordani-machado-5b71ba18a
+
+|Increvel a experiencia |Nicolas Souza  | @Nicolas.__.souza|
