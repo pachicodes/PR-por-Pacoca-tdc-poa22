@@ -6,18 +6,18 @@ PR por Paçoca é uma atividade interativa, na qual você ganha um pacotinho esp
 
 ## Como fazer.
 - Fork esse repositório,
-- Abaixo, em Mensagens, copie o template e deixe a sua mensagem sobre o TDC.
+- Copie o template abaixo, cole-o abaixo da última mensagem e deixe a sua mensagem sobre o TDC.
 Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 
 ### Template
-| Mensagem: | Nome: | Redes Sociais :| 
-|--|--|--|
+
 |Sua mensagem aqui  |Seu nome aqui  | Suas redes aqui|
-.
+
 
 # Mensagens
 | Mensagem: | Nome: | Redes Sociais :| 
 |--|--|--|
 | "Estou ansiosa para palestrar na trilha de Carreira e Mentoria no dia 6 as 10:55 da manhã, venham me ver" |Pachi Parra  | Linkedin: https://www.linkedin.com/in/pachicodes/ Twitter: https://twitter.com/pachicodes Instagram: https://www.instagram.com/pachicodes/|
-.
+|Sua mensagem aqui  |Seu nome aqui  | Suas redes aqui|
+
 .
