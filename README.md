@@ -18,6 +18,6 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 | Mensagem: | Nome: | Redes Sociais :| 
 |--|--|--|
 | "Estou ansiosa para palestrar na trilha de Carreira e Mentoria no dia 6 as 10:55 da manhã, venham me ver" |Pachi Parra  | Linkedin: https://www.linkedin.com/in/pachicodes/ Twitter: https://twitter.com/pachicodes Instagram: https://www.instagram.com/pachicodes/|
-|Sua mensagem aqui  |Seu nome aqui  | Suas redes aqui|
+| Olá, sou o Sannaaa  | Sanarielsen  | @sanarielsen |
 
 .
