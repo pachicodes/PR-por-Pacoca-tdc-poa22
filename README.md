@@ -23,7 +23,8 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 |Olá github | thailene  | @Thai.terra|
 |Já quero voltar para o TDC! | Zelmar Junior | @zelmarjunior https://www.linkedin.com/in/zelmar-dalavequia-j%C3%BAnior-132885180/
 | Olá! O TDC está showww!! | Gregory | https://www.linkedin.com/in/gregorylagranha
-| Muito massa esse stand!! | Arthur Boeck| https://www.linkedin.com/in/ArthurBoeck
+| Muito massa esse stand!! | Arthur Boeck | https://www.linkedin.com/in/ArthurBoeck
+| TDC top de mais!!! | Rafael P. Mugnol | https://www.linkedin.com/in/rafael-mugnol
 |tdc 2020  |Geordani Machado  | Sua mensagem aqui  |https://www.linkedin.com/in/geordani-machado-5b71ba18a
+|Increvel a experiencia |Nicolas Souza  | @Nicolas.__.souza
 
-|Increvel a experiencia |Nicolas Souza  | @Nicolas.__.souza|
