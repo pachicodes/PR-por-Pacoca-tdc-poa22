@@ -2,7 +2,7 @@
 # PR por Paçoca
 ## TDC Porto Alegre 2022
 
-PR por Paçoca é uma atividade interativa, na qual você ganha um pacotinho especial do GitHu após fazer um PR seguindo as instruções e encontrando nossa equipe para se fazer o merge.
+PR por Paçoca é uma atividade interativa, na qual você ganha um pacotinho especial do GitHub após fazer um PR seguindo as instruções e encontrando nossa equipe para se fazer o merge.
 
 ## Como fazer.
 - Fork esse repositório,
