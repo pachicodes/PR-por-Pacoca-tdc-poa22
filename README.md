@@ -21,6 +21,7 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 | Olá, pessoal, venham conferir o nosso stand e conhecer todo o nosso trabalho HEHEHEHE  | Sanarielsen  | @sanarielsen |
 | "Estou ensaiando minha palestra sobre Design Patterns que será as 15:55 na trilha de Javascript, em frente a sala de testes se alguém quiser assistir ao ensaio e ver uma palestra 'pirata'"  | Juninho Freitas  | Insta: https://www.instagram.com/juninho.dev Site: www.dev-addict.com |
 |Olá github | thailene  | @Thai.terra|
+|Já quero voltar para o TDC! | Zelmar Junior | @zelmarjunior https://www.linkedin.com/in/zelmar-dalavequia-j%C3%BAnior-132885180/
 | Olá! O TDC está showww!! | Gregory | https://www.linkedin.com/in/gregorylagranha
 | Muito massa esse stand!! | Arthur Boeck| https://www.linkedin.com/in/ArthurBoeck
 |tdc 2020  |Geordani Machado  | Sua mensagem aqui  |https://www.linkedin.com/in/geordani-machado-5b71ba18a
