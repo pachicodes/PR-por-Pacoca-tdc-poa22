@@ -32,3 +32,4 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 |O TDC é a Disney dos Devs |Sabrina Pereira Vaz |https://www.linkedin.com/in/sabrina-pereira-vaz-1105b4200/ 
 |Que evento incrível, muitas oportunidades de aprendizado e crescimento|Francisco Cavasan| https://www.linkedin.com/in/francisco-cavasan-68b814122
 | Espero que o evento aconteça mais vezes em POA | Louise Aldrighi | www.linkedin.com/louiseca |
+| Que massa essa iniciativa! | LuisComS  | https://linktr.ee/oluiscoms |
