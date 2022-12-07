@@ -20,3 +20,4 @@ Mensagem, nome e pelo menos UMA rede social sao obrigatórias
 | "Estou ansiosa para palestrar na trilha de Carreira e Mentoria no dia 6 as 10:55 da manhã, venham me ver" |Pachi Parra  | Linkedin: https://www.linkedin.com/in/pachicodes/ Twitter: https://twitter.com/pachicodes Instagram: https://www.instagram.com/pachicodes/|
 | Olá, sou o Sannaaa  | Sanarielsen  | @sanarielsen |
 |Olá github | thailene  | @Thai.terra|
+| Olá! O TDC está showww!! | Gregory | https://www.linkedin.com/in/gregorylagranha
